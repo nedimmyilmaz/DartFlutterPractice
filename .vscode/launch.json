@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-/*dart dosyasının yeri*/ "program": "bolum5/kalitimda_constructorlar.dart",
+/*dart dosyasının yeri*/ "program": "bolum6/future_ornek.dart",
             "request": "launch",
             "type": "dart"
         }
